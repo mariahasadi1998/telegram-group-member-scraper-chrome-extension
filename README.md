@@ -50,7 +50,7 @@
 
 3- اطلاعات اعضای گروه به طور خودکار در پوشه دانلود سیستم شما ذخیره می‌شود.
 
-     ![تصویر 3](screenshot/extension-3.png)
+   ![تصویر 3](screenshot/extension-3.png)
 
 
 #TelegramScraper #ChromeExtension #DataScraping #WebScraping #JavaScript #TelegramGroupScraper #TelegramMemberScraper #GroupMemberScraper
