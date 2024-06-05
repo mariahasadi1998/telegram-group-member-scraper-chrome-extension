@@ -24,7 +24,7 @@
 
 ## نصب
 
-1. اکستنشن را از [MehDAsaD/telegram-group-member-scraper-extension.](https://github.com/MehDAsaD/telegram-group-member-scraper-extension/tree/main). دانلود کنید.
+1. اکستنشن را از [mariahasadi1998/telegram-group-member-scraper-chrome-extension](https://github.com/MehDAsaD/telegram-group-member-scraper-extension/tree/main) دانلود کنید.
 2. مرورگر کروم را باز کرده و به آدرس "[chrome://extensions/](chrome://extensions/)" بروید.
 3. حالت "Developer mode" را فعال کنید.
 4. روی "Load unpacked" کلیک کرده و پوشه اکستنشن را انتخاب کنید.
@@ -39,6 +39,7 @@
   
 
 ### تصاویر
+
 1. روی آیکون اکستنشن استخراج اعضای گروه تلگرام کلیک کنید تا رابط کاربری در یک پنجره پاپ‌آپ نمایش داده شود. برای شروع استخراج روی دکمه "Click to Start Scraping" کلیک کنید
 
    ![تصویر 1](screenshot/extension-1.png)
@@ -47,7 +48,7 @@
 
    ![تصویر 2](screenshot/extension-2.png)
 
-3. اطلاعات اعضای گروه به طور خودکار در پوشه دانلود سیستم شما ذخیره می‌شود.
+ 3. اطلاعات اعضای گروه به طور خودکار در پوشه دانلود سیستم شما ذخیره می‌شود.
 
    ![تصویر 3](screenshot/extension-3.png)
 
