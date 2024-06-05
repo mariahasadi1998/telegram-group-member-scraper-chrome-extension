@@ -40,17 +40,17 @@
 
 ### تصاویر
 
-1. روی آیکون اکستنشن استخراج اعضای گروه تلگرام کلیک کنید تا رابط کاربری در یک پنجره پاپ‌آپ نمایش داده شود. برای شروع استخراج روی دکمه "Click to Start Scraping" کلیک کنید
+1- روی آیکون اکستنشن استخراج اعضای گروه تلگرام کلیک کنید تا رابط کاربری در یک پنجره پاپ‌آپ نمایش داده شود. برای شروع استخراج روی دکمه "Click to Start Scraping" کلیک کنید
 
    ![تصویر 1](screenshot/extension-1.png)
 
-2. خواهید دید که اعضای گروه در حال استخراج هستند.
+2- میتوانید مشاهده کنید که اعضای گروه در حال استخراج هستند.
 
    ![تصویر 2](screenshot/extension-2.png)
 
- 3. اطلاعات اعضای گروه به طور خودکار در پوشه دانلود سیستم شما ذخیره می‌شود.
+3- اطلاعات اعضای گروه به طور خودکار در پوشه دانلود سیستم شما ذخیره می‌شود.
 
-   ![تصویر 3](screenshot/extension-3.png)
+     ![تصویر 3](screenshot/extension-3.png)
 
 
 #TelegramScraper #ChromeExtension #DataScraping #WebScraping #JavaScript #TelegramGroupScraper #TelegramMemberScraper #GroupMemberScraper
