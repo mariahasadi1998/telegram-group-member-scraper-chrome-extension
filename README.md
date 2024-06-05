@@ -26,7 +26,7 @@
 
 ## نصب
 
-1. اکستنشن را از [mariahasadi1998/telegram-group-member-scraper-chrome-extension](https://github.com/MehDAsaD/telegram-group-member-scraper-extension/tree/main) دانلود کنید.
+1. اکستنشن را از [mariahasadi1998/telegram-group-member-scraper-chrome-extension](https://github.com/mariahasadi1998/telegram-group-member-scraper-chrome-extension/tree/main) دانلود کنید.
 2. مرورگر کروم را باز کرده و به آدرس "[chrome://extensions/](chrome://extensions/)" بروید.
 3. حالت "Developer mode" را فعال کنید.
 4. روی "Load unpacked" کلیک کرده و پوشه اکستنشن را انتخاب کنید.
