@@ -58,7 +58,7 @@
    ![تصویر 3](screenshot/extension-3.png)
 
 ### لینک محصول
-برای اطلاعات بیشتر و دانلود این اکستنشن به صفحه محصول در [سایت](https://www.v-user.com/fa/محصولات/ربات-ارسال-پیام-انبوه-تلگرام) کاربری مجازی مراجعه کنید.
+این اکستنشن جزئی از پکیج ربات ارسال پیام انبوه در تلگرام کاربر مجازی است. برای اطلاعات بیشتر درباره این پکیج [به آدرس صفحه‌ی این محصول در سایت کاربر مجازی](https://www.v-user.com/fa/محصولات/ربات-ارسال-پیام-انبوه-تلگرام) مراجعه کنید
 
 #TelegramScraper #ChromeExtension #DataScraping #WebScraping #JavaScript #TelegramGroupScraper #TelegramMemberScraper #GroupMemberScraper
 
